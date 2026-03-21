@@ -15,37 +15,13 @@ This repository includes more than this single paper, but LUART and SFCATrack ar
 
 ## 🔔 News
 - **2026.02** – Our **Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark** is accepted by **CVPR 2026**.   
-- **2025.11** – **LUART** (1.02M dual-modality frames) dataset is available for download.  
-- Additional methods and datasets will be released soon.
-
+- **2025.11** – **AERI-PEDES** dataset is available for download.  
 ---
 
-## 📢 Public Release
-- **2026.02**, we will release the **CFAN(CVPR 2026)**
-- [**LUART dataset**](https://github.com/NOP1224/Unaligned_RGBT_Tracking/blob/main/README.md#-download-links)
-- [**LUART evaluation toolkit**](https://github.com/NOP1224/Unaligned_RGBT_Tracking/blob/main/README.md#-download-links)
-
-to support reproducibility and future research on unaligned RGBT tracking.
-
----
-
-## 📦 MUART244 Dataset (Multi-platform Unaligned RGBT Tracking)
+## 📦 AERI-PEDES Dataset (A Large-scale Text-Aerial Person Retieval Dataset)
 To be coming soon....
 
-## 📦 LUART Dataset (Unaligned UAV RGBT Tracking)
-
-**LUART** is the first large-scale benchmark focusing on *unaligned* UAV visible–thermal tracking.  
-It includes:
-
-- **1,453** RGB–TIR sequence pairs  
-- **1.02M** dual-modality frames  
-- **42** object categories  
-- **22** challenge attributes  
-- Original UAV resolutions:  
-  - RGB: **1920×1080**  
-  - TIR: **640×512**
-
-### 📥 Download Links
+## 📦 TBAPR Dataset (The First Text-Aerial Person Retieval Dataset)
 
 **LUART Dataset**  
 - Baidu Cloud:  
