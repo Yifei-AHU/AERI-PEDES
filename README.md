@@ -3,13 +3,12 @@
   <img src="logo.png" width="100%">
 </p>
 
-This repository contains multiple research modules related to **multi-modal tracking**, **RGB–TIR fusion**, and **unaligned cross-modal UAV tracking**.  
-Among them, our recent work:
+Our recent work:
 
 > **“Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark”**  
 > has been **accepted by CVPR 2026** 🎉.
 
-This repository includes more than this single paper, but LUART and SFCATrack are important components released here.
+This repository includes more than this single paper, but AERI-PEDES and TBAPR are important components released here.
 
 ---
 
@@ -22,6 +21,8 @@ This repository includes more than this single paper, but LUART and SFCATrack ar
 To be coming soon....
 
 ## 📦 TBAPR Dataset (The First Text-Aerial Person Retieval Dataset)
+
+Download the CUHK-PEDES dataset from [here](https://github.com/xbdxwyh/AEA-FIRM-main)
 
 **LUART Dataset**  
 - Baidu Cloud:  
