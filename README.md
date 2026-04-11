@@ -18,13 +18,13 @@ This repository includes more than this single paper, but AERI-PEDES and TBAPR a
 - **2026.02** – Our **Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark** is accepted by **CVPR 2026**.   
 ---
 
-## 📦 AERI-PEDES Dataset (A Large-scale Text-Aerial Person Retieval Dataset)
+## 📦 AERI-PEDES Dataset (A Large-scale Text-Aerial Person Retrieval Dataset)
 
 ![](Images/Fig3.png)
 
 The images of our TBAGPR dataset are constructed based on three existing Aerial-Ground Person-ReID image datasets: AG-ReID and G2APS. We discard blurry images and maintain a balanced ratio of aerial and ground images by removing overflow aerial or ground images.
 
-## 📦 TBAPR Dataset (The First Text-Aerial Person Retieval Dataset)
+## 📦 TBAPR Dataset (The First Text-Aerial Person Retrieval Dataset)
 
 Download the TBAPR dataset from [here](https://github.com/xbdxwyh/AEA-FIRM-main)
 
