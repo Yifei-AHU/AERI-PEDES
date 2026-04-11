@@ -1,6 +1,6 @@
 # Text-Aerial Person Retrieval Project
 <p align="center">
-  <img src="logo.png" width="100%">
+  <img src="Images/AERIPEDES.png" width="100%">
 </p>
 
 Our recent work:
