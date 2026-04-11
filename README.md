@@ -22,7 +22,7 @@ This repository includes more than this single paper, but AERI-PEDES and TBAPR a
 
 ![](Images/Fig3.png)
 
-The images of our TBAGPR dataset are constructed based on three existing Aerial-Ground Person-ReID image datasets: AG-ReID and G2APS. We discard blurry images and maintain a balanced ratio of aerial and ground images by removing overflow aerial or ground images.
+The images of our dataset are constructed based on three existing Aerial-Ground Person-ReID image datasets: AG-ReID, G2APS and AG-VPReID. 
 
 ## 📦 TBAPR Dataset (The First Text-Aerial Person Retrieval Dataset)
 
