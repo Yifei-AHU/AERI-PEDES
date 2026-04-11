@@ -1,6 +1,8 @@
 # Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark
 
-Official Benchmark and PyTorch implementation of the paperCross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark. (CVPR 2026) [arXiv](https://arxiv.org/abs/2603.20721)
+Official Benchmark and PyTorch implementation of the paper Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark. (CVPR 2026) [arXiv](https://arxiv.org/abs/2603.20721)
+
+![](Images/Fig1.png)
 
 Our recent work:
 
@@ -17,7 +19,8 @@ This repository includes more than this single paper, but AERI-PEDES and TBAPR a
 ---
 
 ## 📦 AERI-PEDES Dataset (A Large-scale Text-Aerial Person Retieval Dataset)
-To be coming soon....
+
+![](Images/Fig3.png)
 
 ## 📦 TBAPR Dataset (The First Text-Aerial Person Retieval Dataset)
 
