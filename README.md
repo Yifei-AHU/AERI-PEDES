@@ -1,7 +1,6 @@
-# Text-Aerial Person Retrieval Project
-<p align="center">
-  <img src="Images/AERIPEDES.png" width="100%">
-</p>
+# Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark
+
+Official Benchmark and PyTorch implementation of the paperCross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark. (CVPR 2026) [arXiv](https://arxiv.org/abs/2603.20721)
 
 Our recent work:
 
@@ -25,8 +24,13 @@ To be coming soon....
 Download the TBAPR dataset from [here](https://github.com/xbdxwyh/AEA-FIRM-main)
 
 ## 📚 Citation
+If you find this code useful for your research, please cite our paper.
 
-If you find this repository or the AERI-PEDES dataset useful for your research,  
-please consider citing our CVPR 2026 paper:
-
-```bibtex
+```tex
+@article{deng2026cross,
+  title={Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark},
+  author={Deng, Yifei and Li, Chenglong and Zhang, Yuyang and Hu, Guyue and Tang, Jin},
+  journal={arXiv preprint arXiv:2603.20721},
+  year={2026}
+}
+```
