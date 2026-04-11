@@ -20,9 +20,9 @@ This repository includes more than this single paper, but AERI-PEDES and TBAPR a
 
 ![](Images/Fig3.png)
 
-The images of our dataset are constructed based on three existing Aerial-Ground Person-ReID image datasets: AG-ReID.v2, G2APS and AG-VPReID. 
+The images of our dataset are constructed based on three existing Aerial-Ground Person-ReID image datasets: [AG-ReID.v2](https://github.com/huynguyen792/ag-reid.v2), [G2APS](https://github.com/yqc123456/HKD_for_person_search) and [AG-VPReID](https://github.com/agvpreid25/AG-VPReID).
 
-First, you need to download the corresponding image dataset. You can download AG-ReID.v2 from [here](https://github.com/huynguyen792/ag-reid.v2), G2APS from [here](https://github.com/yqc123456/HKD_for_person_search) and AG-VPReID from [here](https://github.com/agvpreid25/AG-VPReID).
+We adopt a joint filtering strategy combining VLM and human annotation, removing identity samples with unclear or hard-to-describe pedestrian targets in ground views, as well as severely blurred or unrecognizable images in aerial views.
 
 ## 📦 TBAPR Dataset (The First Text-Aerial Person Retrieval Dataset)
 
