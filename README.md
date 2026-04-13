@@ -27,7 +27,6 @@ We adopt a joint filtering strategy combining VLM and human annotation, removing
 You can download the AERI-PEDES dataset from Baidu Netdisk:
 
        Link: https://pan.baidu.com/s/1v5qVZTnuKiTT8jk0R4o2PA 
-       
        Password:  cs8a
 
 **Notes**: In the link above, we do not fully release all caption annotations. This is because, during our experiments, we found that using the complete set of captions leads to an excessive number of diverse textual descriptions for the same image, which introduces noise and negatively affects model training. Therefore, we perform selection and normalization only on the training set, reducing redundancy while preserving diversity, resulting in the released JSON file; the test set remains unchanged.
