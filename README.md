@@ -25,6 +25,7 @@ The images of our dataset are constructed based on three existing Aerial-Ground 
 We adopt a joint filtering strategy combining VLM and human annotation, removing identity samples with unclear or hard-to-describe pedestrian targets in ground views, as well as severely blurred or unrecognizable images in aerial views.
 
 You can download the AERI-PEDES dataset from Baidu Netdisk:
+
        Link: https://pan.baidu.com/s/1v5qVZTnuKiTT8jk0R4o2PA 
        
        Password:  cs8a
