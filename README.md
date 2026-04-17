@@ -31,7 +31,7 @@ You can download the AERI-PEDES dataset from Baidu Netdisk:
 
 **Notes**: In the link above, we do not fully release all caption annotations. This is because, during our experiments, we found that using the complete set of captions leads to an excessive number of diverse textual descriptions for the same image, which introduces noise and negatively affects model training. Therefore, we perform selection and normalization only on the training set, reducing redundancy while preserving diversity, resulting in the released JSON file; the test set remains unchanged.
 
-It is worth noting that, compared to the full version, the number of person IDs and images remains the same, and only the number of captions in the training set is reduced. 
+It is worth noting that, compared to the full version, the number of person IDs remains the same. 
 
 **We recommend that future work conduct experiments based on this JSON file to ensure fair comparisons.** 
 If you require the full set of annotations, please feel free to contact us via email, and we will provide the complete JSON file.
