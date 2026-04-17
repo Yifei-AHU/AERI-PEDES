@@ -35,7 +35,7 @@ To address this problem, we perform sampling and normalization on the training s
 
 Importantly, the sampled training set preserves the same number of person IDs as the complete annotations, thereby maintaining identity distribution consistency while reducing redundancy and conflicts in textual descriptions.
 
-Users may choose to train models either with the full annotation file (**complete_caption.json**) or with our sampled version (**train_caption.json**), depending on their experimental needs.
+**Users may choose to train models either with the full annotation file (**complete_caption.json**) or with our sampled version (**train_caption.json**), depending on their experimental needs.**
 
 ## 📦 TBAPR Dataset (The First Text-Aerial Person Retrieval Dataset)
 
