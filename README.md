@@ -29,12 +29,13 @@ You can download the AERI-PEDES dataset from Baidu Netdisk:
        Link: https://pan.baidu.com/s/1v5qVZTnuKiTT8jk0R4o2PA 
        Password:  cs8a
 
-**Notes**: In the link above, we do not fully release all caption annotations. This is because, during our experiments, we found that using the complete set of captions leads to an excessive number of diverse textual descriptions for the same image, which introduces noise and negatively affects model training. Therefore, we perform selection and normalization only on the training set, reducing redundancy while preserving diversity, resulting in the released JSON file; the test set remains unchanged.
+**Notes**: We release the complete set of caption annotations in **complete_caption.json**. During our experiments, we observed that directly training with the full annotations may lead to performance degradation. This issue mainly arises from semantic inconsistencies or mismatched correspondences within the triplets composed of (aerial image, ground image, and textual description), which can interfere with effective model learning.
 
-It is worth noting that, compared to the full version, the number of person IDs remains the same. 
+To address this problem, we perform sampling and normalization on the training split of the complete annotations, resulting in **train_caption.json**, which is used for training in our method. This process only affects the training data and does not impact the test set.
 
-**We recommend that future work conduct experiments based on this JSON file to ensure fair comparisons.** 
-If you require the full set of annotations, please feel free to contact us via email, and we will provide the complete JSON file.
+Importantly, the sampled training set preserves the same number of person IDs as the complete annotations, thereby maintaining identity distribution consistency while reducing redundancy and conflicts in textual descriptions.
+
+Users may choose to train models either with the full annotation file (**complete_caption.json**) or with our sampled version (**train_caption.json**), depending on their experimental needs.
 
 ## 📦 TBAPR Dataset (The First Text-Aerial Person Retrieval Dataset)
 
