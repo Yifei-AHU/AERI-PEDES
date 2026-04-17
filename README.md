@@ -29,7 +29,7 @@ You can download the AERI-PEDES dataset from Baidu Netdisk:
        Link: https://pan.baidu.com/s/1v5qVZTnuKiTT8jk0R4o2PA 
        Password:  cs8a
 
-**Notes**: We release the complete set of caption annotations in **complete_caption.json**. During our experiments, we observed that directly training with the full annotations may lead to performance degradation. This issue mainly arises from semantic inconsistencies or mismatched correspondences within the triplets composed of (aerial image, ground image, and textual description), which can interfere with effective model learning.
+**Notes**: We release the complete set of caption annotations in **complete_caption.json**. During our experiments, we observed that directly training with the full annotations may lead to performance degradation. This issue mainly arises from semantic inconsistencies or mismatched correspondences within the triplets composed of (aerial image, ground image, textual description), which can interfere with effective model learning.
 
 To address this problem, we perform sampling and normalization on the training split of the complete annotations, resulting in **train_caption.json**, which is used for training in our method. This process only affects the training data and does not impact the test set.
 
