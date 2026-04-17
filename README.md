@@ -31,7 +31,7 @@ You can download the AERI-PEDES dataset from Baidu Netdisk:
 
 **Notes**: We release the complete set of caption annotations in **complete_caption.json**. During our experiments, we observed that directly training with the full annotations may lead to performance degradation. This issue mainly arises from semantic inconsistencies or mismatched correspondences within the triplets composed of (aerial image, ground image, textual description), which can interfere with effective model learning.
 
-To address this problem, we perform sampling and normalization on the training split of the complete annotations, resulting in **train_caption.json**, which is used for training in our method. This process only affects the training data and does not impact the test set.
+To address this problem, we perform sampling and normalization on the training split of the complete annotations, resulting in **train_caption.json**, which is used for training in our method. **This process only affects the training data and does not impact the test set.**
 
 Importantly, the sampled training set preserves the same number of person IDs as the complete annotations, thereby maintaining identity distribution consistency while reducing redundancy and conflicts in textual descriptions.
 
