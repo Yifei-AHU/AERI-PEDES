@@ -9,13 +9,10 @@ Our recent work:
 
 This repository includes more than this single paper, but AERI-PEDES and TBAPR are important components released here.
 
----
-
 ## 🔔 News
 - **2026.05** – The code has been publicly released. 
 - **2026.04** – **AERI-PEDES** dataset is available for download.
 - **2026.02** – Our **Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark** is accepted by **CVPR 2026**.   
----
 
 ## 📦 AERI-PEDES Dataset (A Large-scale Text-Aerial Person Retrieval Dataset)
 
