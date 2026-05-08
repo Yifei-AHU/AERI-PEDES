@@ -12,6 +12,7 @@ This repository includes more than this single paper, but AERI-PEDES and TBAPR a
 ---
 
 ## 🔔 News
+- **2026.05** – The code has been publicly released. 
 - **2026.04** – **AERI-PEDES** dataset is available for download.
 - **2026.02** – Our **Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark** is accepted by **CVPR 2026**.   
 ---
@@ -44,6 +45,17 @@ Download the TBAPR dataset from [here](https://github.com/xbdxwyh/AEA-FIRM-main)
 ## 📚 Methods
 
 ![](Images/Fig2.png)
+
+## 📦 Code Released
+
+The pretrained model weights have been uploaded and are available for download via Baidu Netdisk for testing purposes：
+
+       Link: https://pan.baidu.com/s/1IckZJ9uXKnLxWq00kpleIQ
+       Password:  j2s3
+
+|     Method      |  Rank-1   |  Rank-5   |  Rank-10  |    mAP    |   RSum    |
+| :-------------: | :-------: | :-------: | :-------: | :-------: | :-------: |
+| **CFAN (ours)** | **47.158** | **65.657** | **73.799** | **44.793** | **186.615** |
 
 ## 📚 Citation
 If you find this code useful for your research, please cite our paper.
