@@ -55,7 +55,7 @@ The pretrained model weights have been uploaded and are available for download v
 | **CFAN (ours)** | **47.158** | **65.657** | **73.799** | **44.793** | **186.615** |
 
 ## 📚 Citation
-If you find this code useful for your research, please cite our paper.
+If you find this code useful for your research, please consider cite our paper.
 
 ```tex
 @article{deng2026cross,
