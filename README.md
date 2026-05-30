@@ -47,12 +47,17 @@ Download the TBAPR dataset from [here](https://github.com/xbdxwyh/AEA-FIRM-main)
 
 The pretrained model weights have been uploaded and are available for download via Baidu Netdisk for testing purposes：
 
-       Link: https://pan.baidu.com/s/1IckZJ9uXKnLxWq00kpleIQ
-       Password:  j2s3
+       AERI-PEDES CheckPoint:
+       Link: https://pan.baidu.com/s/1rJRaTZsXoMHUjkSp52rh7w 
+       Password:  mjcq
 
 |     Method      |  Rank-1   |  Rank-5   |  Rank-10  |    mAP    |   RSum    |
 | :-------------: | :-------: | :-------: | :-------: | :-------: | :-------: |
 | **CFAN (ours)** | **47.158** | **65.657** | **73.799** | **44.793** | **186.615** |
+
+       TBAPR CheckPoint
+       Link: https://pan.baidu.com/s/1U0y-vAT8cVPGVp9t-41hAw 
+       Password: 8963
 
 ## 📚 Citation
 If you find this work useful for your research, please consider cite our paper.
