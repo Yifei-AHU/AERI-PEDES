@@ -63,10 +63,11 @@ The pretrained model weights have been uploaded and are available for download v
 If you find this work useful for your research, please consider cite our paper.
 
 ```tex
-@article{deng2026cross,
+@inproceedings{deng2026cross,
   title={Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark},
   author={Deng, Yifei and Li, Chenglong and Zhang, Yuyang and Hu, Guyue and Tang, Jin},
-  journal={arXiv preprint arXiv:2603.20721},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={38732--38741},
   year={2026}
 }
 ```
