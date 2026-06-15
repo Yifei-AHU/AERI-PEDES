@@ -4,7 +4,7 @@ Official Benchmark and PyTorch implementation of the paper Cross-modal Fuzzy Ali
 
 In the meantime, check out our related papers if you are interested:
 
-🎉【CVPR 2026】Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark, CVPR 2026, Yifei Deng et al., [[PDF] (https://openaccess.thecvf.com/content/CVPR2026/html/Deng_Cross-modal_Fuzzy_Alignment_Network_for_Text-Aerial_Person_Retrieval_and_A_CVPR_2026_paper.html)][[Code](https://github.com/Yifei-AHU/AERI-PEDES)]
+🎉【CVPR 2026】Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark, CVPR 2026, Yifei Deng et al., [[PDF] (https://openaccess.thecvf.com/content/CVPR2026/html/Deng_Cross-modal_Fuzzy_Alignment_Network_for_Text-Aerial_Person_Retrieval_and_A_CVPR_2026_paper.html)]
 
 🎉【TIFS 2026】 Cross-modal Person Retrieval with One-to-Many Relation Modeling, TIFS 2026, Yifei Deng et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11503671)]
 
