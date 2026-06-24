@@ -8,6 +8,8 @@ In the meantime, check out our related papers if you are interested:
 
 🎉【**ACM MM 2025**】 Learning Hierarchical Cross-modal Association with Intra-modal Context for Text-Image Person Retrieval, ACM MM 2025, Yifei Deng et al., [[PDF](https://dl.acm.org/doi/epdf/10.1145/3746027.3754721)]
 
+🎉【**INFFUS 2026**】 Decoupled cross-modal alignment network for text-RGBT person retrieval and a high-quality benchmark, Information Fusion 2026, Yifei Deng et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253525010103)]
+
 This repository includes more than this single paper, but AERI-PEDES and TBAPR are important components released here.
 
 ## 🔔 News
