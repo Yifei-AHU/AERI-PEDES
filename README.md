@@ -75,4 +75,27 @@ If you find this work useful for your research, please consider cite our paper.
   pages={38732--38741},
   year={2026}
 }
+
+@article{deng2026cross,
+  title={Cross-modal Person Retrieval with One-to-Many Relation Modeling},
+  author={Deng, Yifei and Xu, Ziheng and Li, Chenglong and Hu, Guyue and Tang, Jin},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2026},
+  publisher={IEEE}
+}
+
+@inproceedings{deng2025learning,
+  title={Learning Hierarchical Cross-modal Association with Intra-modal Context for Text-Image Person Retrieval},
+  author={Deng, Yifei and Li, Chenglong and Wang, Futian and Tang, Jin},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={2723--2731},
+  year={2025}
+}
+
+@article{deng2025decoupled,
+  title={Decoupled Cross-Modal Alignment Network for Text-RGBT Person Retrieval and A High-Quality Benchmark},
+  author={Deng, Yifei and Li, Chenglong and Chen, Zhenyu and Xu, Zihen and Tang, Jin},
+  journal={arXiv preprint arXiv:2503.07950},
+  year={2025}
+}
 ```
