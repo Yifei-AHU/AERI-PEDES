@@ -2,7 +2,7 @@
 
 Official Benchmark and PyTorch implementation of the paper Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark. (CVPR 2026) [arXiv](https://arxiv.org/abs/2603.20721)
 
-In the meantime, check out our related papers if you are interested:
+In the meantime, check out our related papers and work if you are interested:
 
 🎉 【**Awesome-Text-Image Person Retrieval**】 We created the 【**[Awesome-Text-Image Person Retrieval repository](https://github.com/Yifei-AHU/Awesome-Text-Image-Person-Retrieval)**】. Welcome contributions via Pull Requests to include more excellent works and jointly advance the field!
 
