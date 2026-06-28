@@ -4,9 +4,7 @@ Official Benchmark and PyTorch implementation of the paper Cross-modal Fuzzy Ali
 
 In the meantime, check out our related papers if you are interested:
 
-🔔🔔🔔 We have curated and maintained a repository for the Text-Image Person Retrieval community 【**[[Awesome-Text-Image Person Retrieval](https://github.com/Yifei-AHU/Awesome-Text-Image-Person-Retrieval)]**】. This repository systematically collects representative papers, codes, and datasets in this field. 
-
-【**We warmly welcome researchers and practitioners to contribute by submitting Pull Requests for outstanding works, and together promote the development of Text-Image Person Retrieval!**】
+🔔🔔🔔 We have curated and maintained a repository for the Text-Image Person Retrieval community 【**[[Awesome-Text-Image Person Retrieval](https://github.com/Yifei-AHU/Awesome-Text-Image-Person-Retrieval)]**】. We welcome contributions via 【**Pull Requests**】 to include more excellent works and jointly advance the field!
 
 🎉【**TIFS 2026**】 Cross-modal Person Retrieval with One-to-Many Relation Modeling, TIFS 2026, Yifei Deng et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11503671)]
 
