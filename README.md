@@ -94,8 +94,10 @@ If you find this work useful for your research, please consider cite our paper.
 
 @article{deng2025decoupled,
   title={Decoupled Cross-Modal Alignment Network for Text-RGBT Person Retrieval and A High-Quality Benchmark},
-  author={Deng, Yifei and Li, Chenglong and Chen, Zhenyu and Xu, Zihen and Tang, Jin},
-  journal={arXiv preprint arXiv:2503.07950},
-  year={2025}
+  author={Deng, Yifei and Li, Chenglong and Chen, Zhengyu and Xu, Zihen and Tang, Jin},
+  journal={Information Fusion},
+  pages={103948},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
