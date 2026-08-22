@@ -15,6 +15,7 @@ In the meantime, check out our related papers and work if you are interested:
 This repository includes more than this single paper, but AERI-PEDES and TBAPR are important components released here.
 
 ## 🔔 News
+- **2026.08** – The **AERI-PEDES** dataset has been uploaded to Google Drive.
 - **2026.05** – The code has been publicly released. 
 - **2026.04** – **AERI-PEDES** dataset is available for download.
 - **2026.02** – Our **Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark** is accepted by **CVPR 2026**.   
@@ -27,10 +28,12 @@ The images of our dataset are constructed based on three existing Aerial-Ground 
 
 We adopt a joint filtering strategy combining VLM and human annotation, removing identity samples with unclear or hard-to-describe pedestrian targets in ground views, as well as severely blurred or unrecognizable images in aerial views.
 
-You can download the AERI-PEDES dataset from Baidu Netdisk:
+You can download the AERI-PEDES dataset from Baidu Netdisk or Google Drive:
 
        Link: https://pan.baidu.com/s/1v5qVZTnuKiTT8jk0R4o2PA 
        Password:  cs8a
+
+       Google Drive Link: https://drive.google.com/file/d/11jya7exTkSpujGg0sGSK--w7u9A1Rv77/view?usp=drive_link
 
 **Notes**: We release the complete set of caption annotations in **complete_caption.json**. During our experiments, we observed that directly training with the full annotations may lead to performance degradation. This issue mainly arises from semantic inconsistencies or mismatched correspondences within the triplets composed of (aerial image, ground image, textual description), which can interfere with effective model learning.
 
